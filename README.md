@@ -1,4 +1,4 @@
 BinaryStarsPy
 =============
 
-This project aims to provide tools to learn and analysis the dynamic of binary stars
+This project aims to provide tools for learning and analysing the dynamic of binary stars
